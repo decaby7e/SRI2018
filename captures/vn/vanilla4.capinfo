@@ -1,0 +1,27 @@
+File name:           vanilla4.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Ethernet
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   7392
+File size:           979 kB
+Data size:           861 kB
+Capture duration:    155.380168 seconds
+First packet time:   2018-08-03 13:17:15.170450
+Last packet time:    2018-08-03 13:19:50.550618
+Data byte rate:      5542 bytes/s
+Data bit rate:       44 kbps
+Average packet size: 116.51 bytes
+Average packet rate: 47 packets/s
+SHA1:                6f1cb2f717bb1315704f1eb2d7bc8f94bc241f01
+RIPEMD160:           bd5c06ee5693ede6f50a501d38deee50c55e7848
+MD5:                 94f50d80bc317b2c1199430df088436d
+Strict time order:   True
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Ethernet (1/1 - ether)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 7392
