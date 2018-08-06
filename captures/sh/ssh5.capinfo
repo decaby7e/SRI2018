@@ -1,0 +1,27 @@
+File name:           ssh5.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Ethernet
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   7650
+File size:           1227 kB
+Data size:           1104 kB
+Capture duration:    160.507381 seconds
+First packet time:   2018-08-03 16:10:56.854927
+Last packet time:    2018-08-03 16:13:37.362308
+Data byte rate:      6883 bytes/s
+Data bit rate:       55 kbps
+Average packet size: 144.43 bytes
+Average packet rate: 47 packets/s
+SHA1:                dd85d1206db331e4269b8a1717dbc4bd0cc62c48
+RIPEMD160:           03b9e59d8192b0788961046ad5e917a46f9bd5e8
+MD5:                 8ff4b80c21211a1e09b02ec1494dfb24
+Strict time order:   True
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Ethernet (1/1 - ether)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 7650
