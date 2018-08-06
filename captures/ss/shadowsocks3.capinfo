@@ -1,0 +1,27 @@
+File name:           shadowsocks3.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Ethernet
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   7702
+File size:           998 kB
+Data size:           875 kB
+Capture duration:    157.937744 seconds
+First packet time:   2018-08-02 15:48:02.898722
+Last packet time:    2018-08-02 15:50:40.836466
+Data byte rate:      5541 bytes/s
+Data bit rate:       44 kbps
+Average packet size: 113.63 bytes
+Average packet rate: 48 packets/s
+SHA1:                c6314523541c2f50d19bf2adf8c97eadf5b113a5
+RIPEMD160:           1686712c53721eacea576668d77534d0d5d7be81
+MD5:                 f9bcd426746263fe1832a3ec0ec21e20
+Strict time order:   True
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Ethernet (1/1 - ether)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 7702
